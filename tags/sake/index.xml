@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sake on SHIMODADA</title>
+    <link>https://github.com/hikoootaro/blog.git/tags/sake/</link>
+    <description>Recent content in Sake on SHIMODADA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Sat, 26 Jan 2019 16:09:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://github.com/hikoootaro/blog.git/tags/sake/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://github.com/hikoootaro/blog.git/post/post-title/</link>
+      <pubDate>Sat, 26 Jan 2019 16:09:04 +0900</pubDate>
+      
+      <guid>https://github.com/hikoootaro/blog.git/post/post-title/</guid>
+      <description>samples</description>
+    </item>
+    
+  </channel>
+</rss>
