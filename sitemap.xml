@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/hikoootaro/blog.git/post/te-ru/</loc>
+    <loc>https://github.com/hikoootaro/blog2/post/te-ru/</loc>
     <lastmod>2019-01-24T19:02:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/hikoootaro/blog.git/categories/</loc>
+    <loc>https://github.com/hikoootaro/blog2/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hikoootaro/blog.git/tags/food/</loc>
-    <lastmod>2019-01-24T19:02:28+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/hikoootaro/blog.git/post/</loc>
+    <loc>https://github.com/hikoootaro/blog2/tags/food/</loc>
     <lastmod>2019-01-24T19:02:28+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hikoootaro/blog.git/</loc>
+    <loc>https://github.com/hikoootaro/blog2/post/</loc>
     <lastmod>2019-01-24T19:02:28+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/hikoootaro/blog.git/tags/</loc>
+    <loc>https://github.com/hikoootaro/blog2/</loc>
+    <lastmod>2019-01-24T19:02:28+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/hikoootaro/blog2/tags/</loc>
     <lastmod>2019-01-24T19:02:28+09:00</lastmod>
     <priority>0</priority>
   </url>
